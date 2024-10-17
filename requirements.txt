@@ -1,0 +1,40 @@
+# Data analysis and manipulation
+pandas==2.1.1
+numpy==1.26.1
+
+# Web requests and APIs
+requests==2.31.0
+urllib3==2.0.5
+
+# JSON parsing and handling
+simplejson==3.19.1
+
+# Datetime utilities
+python-dateutil==2.8.2
+
+# Virtual environment management (if needed)
+virtualenv==20.24.3
+
+# HTTP libraries
+httpx==0.24.1
+
+# Async support (optional)
+aiohttp==3.8.5
+
+# Excel file support
+openpyxl==3.1.2
+
+# CSV file support
+csvkit==1.0.7
+
+# YAML support
+PyYAML==6.0.1
+
+# SQL database support
+SQLAlchemy==2.1.1
+
+# Machine learning (if needed)
+scikit-learn==1.4.0
+
+# Jupyter Notebook (optional)
+jupyterlab==4.0.7
